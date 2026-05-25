@@ -2,7 +2,7 @@
 
 ## 📖 Descripción
 
-Este repositorio contiene una investigación académica sobre la librería **Pandas** de Python, desarrollada como parte de las actividades del curso de **Inteligencia Artificial** de la **Universidad del Pacífico**.
+Esta carpeta contiene una investigación académica sobre la librería **Pandas** de Python, desarrollada como parte de las actividades del curso de **Inteligencia Artificial** de la **Universidad del Pacífico**.
 
 El trabajo incluye conceptos teóricos, funciones principales de la librería y ejercicios prácticos utilizando un conjunto de datos relacionado con préstamos, aplicando técnicas básicas de análisis y manipulación de datos.
 
