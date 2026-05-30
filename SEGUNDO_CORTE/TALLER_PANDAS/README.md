@@ -188,3 +188,5 @@ Durante el desarrollo del taller se logró:
 El desarrollo de este taller permitió fortalecer los conocimientos relacionados con el análisis y procesamiento de datos mediante el uso de Pandas y NumPy. A través de diferentes ejercicios prácticos se aplicaron operaciones matemáticas, cálculos estadísticos y técnicas de organización de información que son ampliamente utilizadas en proyectos de ciencia de datos.
 
 Además, se reforzó el manejo de herramientas de desarrollo como GitHub y Jupyter Notebook, contribuyendo a una mejor documentación y presentación de proyectos académicos y profesionales.
+
+Link del taller: https://drive.google.com/file/d/1-DtwDV-b9RtuSkZLlvDrgK9atUrgAhYl/view?usp=sharing
