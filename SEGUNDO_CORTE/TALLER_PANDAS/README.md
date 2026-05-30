@@ -189,4 +189,6 @@ El desarrollo de este taller permitió fortalecer los conocimientos relacionados
 
 Además, se reforzó el manejo de herramientas de desarrollo como GitHub y Jupyter Notebook, contribuyendo a una mejor documentación y presentación de proyectos académicos y profesionales.
 
+---
+
 Link del taller: https://drive.google.com/file/d/1-DtwDV-b9RtuSkZLlvDrgK9atUrgAhYl/view?usp=sharing
